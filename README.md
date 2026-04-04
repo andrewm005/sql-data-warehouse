@@ -8,3 +8,29 @@ The goal was to build a **scalable, maintainable, and production-grade data pipe
 ---
 
 ## 🧱 Architecture
+✔ Modular pipeline design  
+✔ Separation of staging and production layers  
+✔ Idempotent data loads  
+✔ Version-controlled transformations  
+✔ Scalable architecture  
+✔ Clear data lineage  
+✔ Documentation-first approach  
+
+---
+
+## 📈 Objective
+Develop SQL-based Analytics to deliver detailed insights into:
+
+- **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
+
+These insights equip stakeholders with actionable business metrics, empowering informed, data-driven strategic decision-making.
+
+## 📜 License
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+## 👤 Author
+
+Hello! I'm a data science undergraduate focused on becoming a data analyst, with strong experience in Python for data manipulation, analysis, and automation. I enjoy uncovering trends, building data-driven solutions, and translating complex data into clear business insights.
