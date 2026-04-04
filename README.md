@@ -33,4 +33,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 👤 Author
 
-Hello! I'm a data science undergraduate focused on becoming a data analyst, with strong experience in Python for data manipulation, analysis, and automation. I enjoy uncovering trends, building data-driven solutions, and translating complex data into clear business insights.
+Hello, I am Andrew Morgado! I'm a data science undergraduate focused on becoming a data analyst, with strong experience in Python for data manipulation, analysis, and automation. I enjoy uncovering trends, building data-driven solutions, and translating complex data into clear business insights.
