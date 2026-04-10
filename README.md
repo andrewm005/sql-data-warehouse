@@ -15,7 +15,7 @@ The goal was to build a **scalable, maintainable, and production-grade data pipe
 ✔ Scalable architecture  
 ✔ Clear data lineage  
 ✔ Documentation-first approach  
-
+![Alt text](docs/data_warehouse.png)
 ---
 
 ## 📈 Objective
